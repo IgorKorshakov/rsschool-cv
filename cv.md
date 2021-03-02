@@ -15,6 +15,7 @@ The main goal is growing as JS developer, improve both theoretic and practice sk
 - Webpack
 # Sample of code
 //Render the square calendar per one month
+
 const date = new Date();
 
 const renderCalendar = () => {
@@ -101,3 +102,5 @@ renderCalendar();
 None
 # Education
 On-line courses and light practice 
+# English level
+Intermediate. Use language in everyday working life 
