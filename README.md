@@ -1,2 +1,1 @@
-# rsschool-cv
-training JS Q12021
+https://IgorKorshakov.github.io/rsschool-cv/cv
