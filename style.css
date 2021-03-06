@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  font-family: Helvetica,Arial,sans-serif;
+}
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+header {
+  background-color: silver;
+}
+.navigation li a {
+  text-decoration: none;
+  color: rgb(223, 81, 15);
+  margin: 0 1rem;
+  line-height: 3rem;
+  font-size: 1.3rem;
+}
+.navigation,
+ul li {
+  list-style-type: none;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+hr {
+  border: 1px dashed grey;
+}
+ul li {
+  margin: 1rem 0;
+}
+img {
+    width: 15%;
+}
